@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohammed Y. Hossain
+# Hi there! 👋 I'm Yadin Hossain
 
 ## 🚀 About Me
 I'm a proactive IT professional with expertise in IT infrastructure management, technical support, and implementing secure, efficient systems. With a strong background in data science, I leverage machine learning and statistical modeling to optimize IT operations, drive data-informed decision-making, and enhance organizational performance. Passionate about bridging IT management with analytical solutions to deliver innovation.
